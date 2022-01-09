@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayu-Github07
+- 👋 Hi, I’m Ayush Agrawal
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on development
